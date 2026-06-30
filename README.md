@@ -10,7 +10,7 @@
 ## 👩‍💻 Sobre mí
 🌱 Desarrolladora Web FullStack Python/Django - En progreso ...
 Desarrolladora en formación con un enfoque práctico: disfruto construir, mejorar, depurar y dar vida a aplicaciones funcionales y bien pensadas. Me gusta transformar ideas en código real, entendible y útil.
-Actualmente estoy enfocada en el desarrollo **Full Stack con Python y Django**, pero continuare explorando nuevas tecnologías para poder mejorar mis habilidades día a día.
+Actualmente estoy enfocada en el desarrollo **Full Stack con Python y Django**, y e encuentro aprendiendo JavaScript para poder mejorar mis habilidades día a día.
 
 ---
 
@@ -27,7 +27,7 @@ Aplicación web para explorar festivales y lugares turísticos, con autenticaci�
 
 **Backend**
 - Python 🐍  
-- Django / Django REST Framework  
+- Django 
 - SQL
 
 **Frontend**
@@ -43,7 +43,8 @@ Aplicación web para explorar festivales y lugares turísticos, con autenticaci�
 ---
 
 ## 🌱 Actualmente aprendiendo
-- Django... 
+- Django...
+- JavaScript...
 
 ---
 
