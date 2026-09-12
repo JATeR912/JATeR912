@@ -1,6 +1,6 @@
-﻿<h1 align="center">Hola, soy Johana 👋</h1>
+<h1 align="center">Hola, soy Johana 👋</h1>
 <p align="center">
-  <img src="https://jater912.github.io/JATeR912/banner_github.jpg" alt="Banner" width="100%">
+  <img width="1184" height="600" alt="banner_github_celeste" src="https://github.com/user-attachments/assets/0a649e85-6fa5-4d39-8b4b-b1b58ead64e7" />
 </p>
 
 ### <center>***"Aprendiendo a transformar ideas en código."***</center>
@@ -8,9 +8,9 @@
 ---
 
 ## 👩‍💻 Sobre mí
-🌱 Desarrolladora Web FullStack Python/Django - En progreso ...
-Desarrolladora en formación con un enfoque práctico: disfruto construir, mejorar, depurar y dar vida a aplicaciones funcionales y bien pensadas. Me gusta transformar ideas en código real, entendible y útil.
-Actualmente estoy enfocada en el desarrollo **Full Stack con Python y Django**, y e encuentro aprendiendo JavaScript para poder mejorar mis habilidades día a día.
+🌱 Desarrolladora - En progreso ...
+Desarrolladora continuamente en formación con un enfoque práctico: disfruto construir, mejorar, depurar y dar vida a aplicaciones funcionales y bien pensadas. Me gusta transformar ideas en código real, entendible y útil.
+Actualmente estoy enfocada en el desarrollo **Full Stack con Javascript y Node**, y me encuentro aprendiendo nuevos lenguajes para poder mejorar mis habilidades día a día.
 
 ---
 
@@ -29,11 +29,12 @@ Aplicación web para explorar festivales y lugares turísticos, con autenticaci�
 - Python 🐍  
 - Django 
 - SQL
+- Node.js & Express
 
 **Frontend**
 - HTML5 / CSS3  
 - Bootstrap 5  
-- JavaScript básico
+- JavaScript
 
 **Herramientas**
 - Git & GitHub  
@@ -43,8 +44,7 @@ Aplicación web para explorar festivales y lugares turísticos, con autenticaci�
 ---
 
 ## 🌱 Actualmente aprendiendo
-- Django...
-- JavaScript...
+- JavaScript 
 
 ---
 
