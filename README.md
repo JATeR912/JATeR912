@@ -23,8 +23,8 @@ Aplicación web para explorar festivales y lugares turísticos, con autenticaci�
 
 ### 🔹 **Disper**  Node.js
 Sistema API REST enfocado en backend para la organización y gestión de tareas con control de acceso basado en roles y autenticación de usuarios.
-👉 [Ver repositorio]([https://github.com/JATeR912/travel-point](https://github.com/JATeR912/JS_M8_organizadorTareas))
-👉 [Demo en vivo](Proximamente...)
+👉 [Ver repositorio](https://github.com/JATeR912/JS_M8_organizadorTareas)
+👉 [Demo en vivo - Proximamente...]()
 
 ---
 
